@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carles</h1>
-<h3 align="center">A passionate frontend developer from Catalonia</h3>
+<h3 align="center">A passionate frontend developer</h3>
+
+- 📭 Looking for work oportunities! send me a dm!
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
